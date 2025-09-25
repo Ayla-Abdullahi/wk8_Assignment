@@ -31,4 +31,4 @@ It includes:
 
 ## 🌍 Live URL
 Once deployed, the site will be available here:  
-👉 [Live Demo]()  
+👉 [Live Demo](https://ayla-abdullahi.github.io/wk8_Assignment/)  
